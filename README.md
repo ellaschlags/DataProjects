@@ -1,6 +1,6 @@
 # Data Projects: Learning Statistics with Python😍
 
-Welcome to my data projects repository! This repository serves as a space for me to familiarize myself with computing statistics using Python. The projects here range from basic exploratory data analysis (EDA) to more complex statistical models, as I gradually improve my understanding of Python and data science principles.
+Welcome to my data projects repository! This repository serves as a space for me to familiarize myself with computing statistics using Python. The projects here are more basic exploratory data analysis (EDA). I want to gradually improve my understanding of Python and data science principles, and this is a great way to share my progress!
 
 ## Purpose
 
